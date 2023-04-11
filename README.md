@@ -1,1 +1,1 @@
-# My First Web Page
+## Kodluyoruz eğitimi kapsamında yapmış olduğum ilk web sayfam!
